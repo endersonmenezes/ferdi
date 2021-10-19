@@ -388,7 +388,7 @@
   "settings.workspace.add.form.submitButton": "Nova Área de Trabalho",
   "settings.workspace.form.buttonDelete": "Excluir Área de trabalho",
   "settings.workspace.form.buttonSave": "Salvar Área de Trabalho",
-  "settings.workspace.form.keepLoaded": "Maner todas a áreas de trabalhos carregadas*",
+  "settings.workspace.form.keepLoaded": "Manter todas a áreas de trabalhos carregadas*",
   "settings.workspace.form.keepLoadedInfo": "*Esta opção será substituída pela configuração global \"Manter todas a áreas de trabalho carregada\".",
   "settings.workspace.form.name": "Nome",
   "settings.workspace.form.servicesInWorkspaceHeadline": "Serviços neste Workspace",
